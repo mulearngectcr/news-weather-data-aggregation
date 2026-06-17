@@ -23,10 +23,3 @@ Daily Brief is a desktop application built with Python and Tkinter that provides
 - NewsAPI
 - WeatherAPI
 
-## Installation
-
-### 1. Clone the Repository
-
-```bash
-git clone <repository-url>
-cd weather-brief
