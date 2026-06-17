@@ -1,4 +1,4 @@
-# Daily Brief (Tkinter Edition)
+# Daily Brief
 
 Daily Brief is a desktop application built with Python and Tkinter that provides users with the latest news on a selected topic along with real-time weather information for a chosen city. The application integrates NewsAPI and WeatherAPI to display news headlines and weather conditions in a user-friendly graphical interface.
 
