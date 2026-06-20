@@ -1,0 +1,127 @@
+{
+    "topic": "Sports",
+    "city": "Thrissur",
+    "weather": {
+        "location": {
+            "name": "Thrissur",
+            "region": "Kerala",
+            "country": "India",
+            "lat": 10.5167,
+            "lon": 76.2167,
+            "tz_id": "Asia/Kolkata",
+            "localtime_epoch": 1781977345,
+            "localtime": "2026-06-20 23:12"
+        },
+        "current": {
+            "last_updated_epoch": 1781976600,
+            "last_updated": "2026-06-20 23:00",
+            "temp_c": 27.2,
+            "temp_f": 81.0,
+            "is_day": 0,
+            "condition": {
+                "text": "Mist",
+                "icon": "//cdn.weatherapi.com/weather/64x64/night/143.png",
+                "code": 1030
+            },
+            "wind_mph": 3.4,
+            "wind_kph": 5.4,
+            "wind_degree": 190,
+            "wind_dir": "S",
+            "pressure_mb": 1012.0,
+            "pressure_in": 29.88,
+            "precip_mm": 0.15,
+            "precip_in": 0.01,
+            "humidity": 89,
+            "cloud": 50,
+            "feelslike_c": 32.5,
+            "feelslike_f": 90.4,
+            "windchill_c": 25.4,
+            "windchill_f": 77.7,
+            "heatindex_c": 28.6,
+            "heatindex_f": 83.5,
+            "dewpoint_c": 24.0,
+            "dewpoint_f": 75.3,
+            "vis_km": 4.0,
+            "vis_miles": 2.0,
+            "uv": 0.0,
+            "gust_mph": 6.0,
+            "gust_kph": 9.7,
+            "will_it_rain": 0,
+            "chance_of_rain": 41,
+            "will_it_snow": 0,
+            "chance_of_snow": 0,
+            "short_rad": 0,
+            "diff_rad": 0,
+            "dni": 0,
+            "gti": 0
+        }
+    },
+    "news": [
+        {
+            "source": {
+                "id": null,
+                "name": "NESN"
+            },
+            "author": "Aaliyan Mohammed",
+            "title": "Kendrick Perkins Presents Foolish Reason To Question Jaylen Brown-Jayson Tatum Relationship",
+            "description": "The Boston Celtics have won a championship with the duo of Jaylen Brown and Jayson Tatum, but Kendrick Perkins is questioning their relationship.",
+            "url": "https://nesn.com/boston-celtics/news/kendrick-perkins-presents-foolish-reason-question-jaylen-brown-jayson-tatum-relationship/5053290477aaccaa57370ac1",
+            "urlToImage": "https://s.yimg.com/os/en/nesn_articles_905/28b7a28e1ebb0529cff2899bdbfd81c7",
+            "publishedAt": "2026-06-19T17:42:07Z",
+            "content": "Kendrick Perkins Presents Foolish Reason To Question Jaylen Brown-Jayson Tatum Relationship originally appeared on NESN. Add NESN as a Preferred Source by clicking here.\r\nThe Boston Celtics have won \u2026 [+1565 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "ET Bureau",
+            "title": "If you can read this in one unbroken go",
+            "description": "In today's fragmented digital world, sustained attention is becoming a rare and valuable commodity. From sports to streaming, content is increasingly broken into smaller pieces to capture fleeting focus. However, the ability to engage with longer forms of con\u2026",
+            "url": "https://economictimes.indiatimes.com/opinion/just-in-jest/if-you-can-read-this-in-one-unbroken-go/articleshow/131864161.cms",
+            "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-67340,resizemode-75,msid-131864161/opinion/just-in-jest/if-you-can-read-this-in-one-unbroken-go.jpg",
+            "publishedAt": "2026-06-19T17:42:04Z",
+            "content": "In the age of the gnat-sized attention span, short bursts of content are all the rage. Fair enough. The mob has its own capacity that must be respected as 'taste'. Football World Cup matches now feat\u2026 [+1160 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Tuttomercatoweb.com"
+            },
+            "author": null,
+            "title": "Mondiali, fioccano i rossi: in 28 partite gi\u00e0 pi\u00f9 espulsioni delle due edizioni precedenti",
+            "description": "I Mondiali 2026 si sta distinguendo anche per un dato particolare: il numero di cartellini rossi.",
+            "url": "https://www.tuttomercatoweb.com/mondiali-2026/mondiali-fioccano-rossi-28-partite-espulsioni-edizioni-precedenti-2245775",
+            "urlToImage": "https://tmw-storage-auto.tcccdn.com/storage/tuttomercatoweb.com/img_notizie/thumb3/8e/8e0a25e2bfefeb1c9755601e978cf4b3-05151-oooz0000.jpeg",
+            "publishedAt": "2026-06-19T17:41:00Z",
+            "content": "I Mondiali 2026 si sta distinguendo anche per un dato particolare: il numero di cartellini rossi. Dopo appena 28 partite disputate nei primi sette giorni del torneo, gli arbitri hanno gi\u00e0 estratto se\u2026 [+1231 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ben Fowlkes",
+            "title": "UFC Freedom 250 ratings explained: Understanding what the White House numbers mean \u2014 and what they don't",
+            "description": "UFC Freedom 250 drew numbers that represent a success for Paramount+ and for the UFC, though nothing close to the record-breaking figures predicted by both UFC and Trump administration officials.",
+            "url": "https://sports.yahoo.com/mma/article/ufc-freedom-250-ratings-explained-understanding-what-the-white-house-numbers-mean-and-what-they-dont-173941646.html",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/7517a399b4a09b2a5e9688e1ee4eaa888db3b379b3be0c1a294fe29704d6e4f8/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fd29szjachogqwa.cloudfront.net%2Fimages%2F2026-06%2F67ae7ad9-4887-432f-91d3-c9449af09fea",
+            "publishedAt": "2026-06-19T17:39:41Z",
+            "content": "The ratings numbers are in for this past Sunday's UFC Freedom 250 event on the White House lawn, and by almost any realistic metric they represent a success. Those key words \"almost\" and \"realistic\" \u2026 [+6928 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Matthew Glenesk, USA TODAY",
+            "title": "Alexi Lalas missing from USA World Cup pregame. Zlatan says, 'America, you're welcome'",
+            "description": "It's safe to say the dynamic of Fox Sports' World Cup studio analysts Thierry Henry, Zlatan Ibrahmiovic and Alexi Lalas has been icy.",
+            "url": "https://www.usatoday.com/story/sports/soccer/worldcup/2026/06/19/zlatan-ibrahimovic-alexi-lalas-thierry-henry-world-cup-fox-sports-tension/90621533007/",
+            "urlToImage": "https://s.yimg.com/lo/mysterio/api/97f859fca7808ee4af6580b50fe1cb4f877ff689bfb64f0c51ea920d925fb908/lightyear_networkapi/resizefill_w1200;quality_80;format_webp/https:%2F%2Fmedia.zenfs.com%2Fen%2Fusa_today_sports_articles_558%2F0b40521e395f7af3b677fe418671a915",
+            "publishedAt": "2026-06-19T17:39:05Z",
+            "content": "The dynamic of Fox Sports' studio team between Thierry Henry, Zlatan Ibrahmiovic and Alexi Lalas has been a trending topic so far this World Cup.\r\nLet's call the relationship between the two former w\u2026 [+1621 chars]"
+        }
+    ],
+    "usd_to_inr": 94.4312
+}
